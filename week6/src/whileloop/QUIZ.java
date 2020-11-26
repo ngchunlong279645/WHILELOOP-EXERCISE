@@ -1,6 +1,6 @@
 package whileloop;
 
-public class exercise {
+public class QUIZ {
 
 	public static void main(String[] args) {
 // 1.

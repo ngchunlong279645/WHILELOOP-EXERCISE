@@ -13,10 +13,10 @@ public class exercise {
 //1. while	
 		System.out.println("1.");
 		int maX=5;
-		int n =1;
-		while(n<=maX) {
-			System.out.println(n);
-			n++;
+		int t =1;
+		while(t<=maX) {
+			System.out.println(t);
+			t++;
 		}
 		System.out.println();
 		
